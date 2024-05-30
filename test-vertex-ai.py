@@ -33,8 +33,8 @@ def send_telegram_message(bot_token, chat_id, message):
 
 def main():
     # 獲取 Telegram Bot 的 API 令牌和聊天 ID
-    bot_token = "7063049506:AAE68MPnhfWmPwOJY_L72hhCZvto34SrOuc"
-    chat_id = "6124294048"
+    bot_token = ""
+    chat_id = ""
 
     # 讓使用者輸入景點
     while True:
